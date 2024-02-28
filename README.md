@@ -1,0 +1,3 @@
+# Dockerfile and docker-compose
+
+Run Matlab with COBRA Toolbox ... working on descriptions...
